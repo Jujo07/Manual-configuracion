@@ -61,7 +61,7 @@
 
 ![Captura de pantalla de 2025-05-15 12-12-00](https://github.com/user-attachments/assets/b7b0ebb1-f42c-49c3-94b4-c05ea2bd6caf)
 
-## Tambuen añadimos los grupos que hemos creado anteriormente
+## Tambien añadimos los grupos que hemos creado anteriormente
 
 ![Captura de pantalla de 2025-05-15 12-12-48](https://github.com/user-attachments/assets/3d1d3048-3fb1-4a34-a37e-c7f589bcbaea)
 ![Captura de pantalla de 2025-05-15 12-16-08](https://github.com/user-attachments/assets/86e07c37-5dc8-4f8b-a1de-4f5b0a48778d)
