@@ -1,15 +1,30 @@
+# Configuración de MYSQL
 
-
+## Accedemos a la consola de Mysql
+### Desde un terminal siendo root ponemos esto:
 
 ![Captura de pantalla de 2025-05-14 12-03-49](https://github.com/user-attachments/assets/c52d98d2-debe-4ea1-bc68-08862a95cccd)
 
+## Una vez hehco esto ya tendriamos que estar denttro de la consola de Mysql
+
 ![Captura de pantalla de 2025-05-14 12-07-17](https://github.com/user-attachments/assets/a91db0bf-e259-4bf5-95a1-cc36c6696461)
+
+## Creación de la base de datos
+### Dentro de la consola ejecutamos los siguientes comandos para crear una base de datos la cual tendra el nombre bbdd
+
+## Creación de un usuario
 
 ![Captura de pantalla de 2025-05-14 12-07-40](https://github.com/user-attachments/assets/7a4fe2e5-58a3-497a-b0a3-e4b9790aaa92)
 
+## A continuación damos privilegios al usuario
+
 ![Captura de pantalla de 2025-05-14 12-08-03](https://github.com/user-attachments/assets/6a81f26b-f222-4af7-9cb3-9cf5a0a19b25)
 
+## Salimos de la base de datos
+
 ![Captura de pantalla de 2025-05-14 12-08-10](https://github.com/user-attachments/assets/111bd711-b4ab-4e63-a1bd-d183808830bf)
+
+
 
 ![Captura de pantalla de 2025-05-14 12-08-52](https://github.com/user-attachments/assets/2856ac76-ff5e-4a3d-8fb0-d04141471888)
 
